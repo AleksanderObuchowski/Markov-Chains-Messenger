@@ -4,6 +4,7 @@
 Firstly you need to download your facebook conversations 
 In order to do this on your facebok account go to:
 `setting > Your Facebook Inormation > Download Your Information`
+You only need to check the **messages** checkbox, other data is irrelevant
 ## Installing fbchat-archive-parser
 This program uses extarnal module called fbchat-archive-parserto gather the data from messages
 You can simply install it using pip
